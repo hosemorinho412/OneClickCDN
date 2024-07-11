@@ -15,8 +15,8 @@
 #您可以在这里修改Traffic Server源码下载链接。
 #查看https://www.apache.org/dyn/closer.cgi/trafficserver获取最新版本链接。
 
-TS_DOWNLOAD_LINK="https://downloads.apache.org/trafficserver/trafficserver-8.1.3.tar.bz2"
-TS_VERSION="8.1.3"
+TS_DOWNLOAD_LINK="https://dlcdn.apache.org/trafficserver/trafficserver-9.2.4.tar.bz2"
+TS_VERSION="9.2.4"
 
 
 
@@ -32,7 +32,7 @@ REVERSE_PROXY_MODE_ENABLED=OFF
 #您可以在下面关闭OS检查开关，然后自行修改代码以在其它系统上安装。
 #请注意，如果您试图在其他系统上安装，将可能导致不可预知的错误。请注意备份。
 
-OS_CHECK_ENABLED=ON
+OS_CHECK_ENABLED=OFF
 
 
 
