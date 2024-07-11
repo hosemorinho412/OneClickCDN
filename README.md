@@ -41,9 +41,12 @@ wget https://raw.githubusercontent.com/hosemorinho412/OneClickCDN/master/uninsta
 You can open an issue here if there is any problem/bug when you use it, or would like a new feature to be implemented.
 For faster response, you can leave a message on this project webpage https://qing.su/article/oneclick-cdn.html
 
-中文支持请访问 https://qing.su/article/oneclick-cdn.html
+中文支
 
-Thank you!
+```
+wget https://raw.githubusercontent.com/hosemorinho412/OneClickCDN/master/translation/translated_scripts/OneClickCDN_zh-CN.sh && bash OneClickCDN_zh-CN.sh
+```
+
 
 ## Update log
  __Current version: v0.1.0__
