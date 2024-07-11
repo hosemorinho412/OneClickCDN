@@ -15,8 +15,8 @@
 #You can change the Traffic Server source file download link here.
 #Check https://www.apache.org/dyn/closer.cgi/trafficserver for the latest stable version.
 
-TS_DOWNLOAD_LINK="https://downloads.apache.org/trafficserver/trafficserver-8.1.5.tar.bz2"
-TS_VERSION="8.1.5"
+TS_DOWNLOAD_LINK="https://dlcdn.apache.org/trafficserver/trafficserver-9.2.4.tar.bz2"
+TS_VERSION="9.2.4"
 
 
 
@@ -32,7 +32,7 @@ REVERSE_PROXY_MODE_ENABLED=OFF
 #You can disable the OS check switch below and tweak the code yourself to try to install it in other OS versions.
 #Please do note that if you choose to use this script on OS other than Ubuntu 20, Debian 10, or CentOS 7/8, you might mess up your OS.  Please keep a backup of your server before installation.
 
-OS_CHECK_ENABLED=ON
+OS_CHECK_ENABLED=OFF
 
 
 
